@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(path = "api/v1/student")
 
 public class StudentController {
-    // first api
 
     private final StudentService studentService;
 
